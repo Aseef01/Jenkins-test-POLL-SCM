@@ -19,3 +19,22 @@ body {
     border-radius: 10px;
     padding: 20px
 }
+.section-one p {
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+
+.section-one .all-card {
+    display: flex;
+    justify-content: space-between;
+}
+.section-one .all-card .card {
+    box-shadow: 0 0 4px 4px #eaeaea;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    height: 10%;
+}
